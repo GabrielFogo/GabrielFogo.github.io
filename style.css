@@ -2,3 +2,7 @@
 *{
     font-family:Montserrat ;
 }
+
+html {
+    scroll-behavior: smooth;
+}
